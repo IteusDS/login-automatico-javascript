@@ -2,7 +2,7 @@
 
 - Projeto criado com o intuito de efetuar logins automáticos utilizando a biblioteca de Puppeteer, JS.
 
-1) JS
+# 1) JS
   - Node JS
   - Puppeteer
 Desenvolvi com ajuda de uma vídeo aula do Mario Souto.
